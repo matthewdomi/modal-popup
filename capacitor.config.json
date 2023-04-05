@@ -1,0 +1,10 @@
+{
+  "appId": "com.example.app",
+  "appName": "modal",
+  "webDir": "out",
+  "bundledWebRuntime": false,
+  "server":{
+    "url":"http://localhost:3000", 
+    "cleartext":true
+  }
+}
